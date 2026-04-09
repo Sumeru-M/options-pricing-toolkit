@@ -1,4 +1,4 @@
-# 📊 Options Pricing Toolkit
+# Options Pricing Toolkit
 
 A modular Python toolkit for pricing European options using:
 
@@ -6,19 +6,19 @@ A modular Python toolkit for pricing European options using:
 - Monte Carlo Simulation
 - Greeks (Delta, Gamma)
 
-## 🚀 Features
+## Features
 - Interactive Streamlit UI
 - Model comparison
 - Payoff visualization
 - Input validation
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - NumPy, SciPy
 - Streamlit
 - Matplotlib
 
-## ▶️ Run Locally
+## Run Locally
 
 ```bash
 pip install -r requirements.txt
